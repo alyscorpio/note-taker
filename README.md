@@ -4,7 +4,7 @@
 For this project I modified starter code to create an application called Note Taker that can be used to write and save notes. This application uses an Express.js back end and will save and retrieve note data from a JSON file.
 
 ## Installation
-[Here](https://alyscorpio-employee-directory.herokuapp.com/) is a link to the deployed application.
+[Here](https://alyscorpio-note-taker.herokuapp.com/) is a link to the deployed application.
 
 [Here](https://alyscorpio-note-taker.herokuapp.com/) is a link to the application's GitHub repository.
 
